@@ -18,6 +18,25 @@ Client gọi Groq (timeout, retry, JSON mode), thẻ cảnh báo yêu cầu bấ
 ## Phụ thuộc
 
 Dùng ui primitive của module 1.
+# Module 6 — Phạm Đức Hiệp
+
+| | |
+|---|---|
+| Họ và tên | Phạm Đức Hiệp |
+| Mã học viên | 2A202601329 |
+| Vai trò | Vận tải, lịch trình & tài liệu |
+
+Bảng giá xe rule-based, bảng lịch trình 7 ngày, và tài liệu dự án.
+
+## File phụ trách
+
+- `src/components/chatbot/TransportCard.jsx`
+- `src/components/chatbot/ScheduleTable.jsx`
+- `README.md`
+
+## Phụ thuộc
+
+Dùng travelApi của module 4 và ui primitive của module 1.
 
 ## Merge
 
